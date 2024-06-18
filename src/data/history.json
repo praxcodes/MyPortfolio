@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Open Source Contributor",
+    "organisation": "Social Summer of Code",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on React Applications", "Developed interactive user-interfaces"],
+    "imageSrc": "history/tech1.png"
+  },
+  {
+    "role": "Head of Design and Creativity",
+    "organisation": "Mirosoft Learn Student Chapter",
+    "startDate": "Dec, 2021",
+    "endDate": "May, 2024",
+    "experiences": ["Led the design team in making 30+ posts", "Designed the official website"],
+    "imageSrc": "history/tech2.png"
+  },
+  {
+    "role": "Campus Business Manager",
+    "organisation": "Prepbytes",
+    "startDate": "Sept, 2022",
+    "endDate": "Dec, 2022",
+    "experiences": [
+      "Boosted business promotion in campus by 50%.",
+      "Organised strategic soft marketing campaigns"
+    ],
+    "imageSrc": "history/tech3.png"
+  }
+]

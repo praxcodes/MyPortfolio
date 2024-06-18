@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Penny Wise",
+    "imageSrc": "projects/project.png",
+    "description": "Leveraged Flutter to build a cross-platform mobile app to manage finances.",
+    "skills": ["Flutter", "Node"],
+    
+  "source": "https://github.com/praxcodes/hacktu_app"
+  },
+  {
+    "title": "Brand logo classification",
+    "imageSrc": "projects/project.png",
+    "description": "Created a deep learning classification model with 95% accuracy to identify brand logos.",
+    "skills": ["Tensorflow", "Numpy", "Scikit learn", "Pandas"],
+    
+    "source": "https://github.com/praxcodes/Brand-logo-classification"
+  },
+  {
+    "title": "Job Portal",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an Internship Portal using the MERN stack, facilitating internship opportunities for 200+ students.",
+    "skills": ["React", "Express", "Node"],
+    
+    "source": "https://github.com/praxcodes/FindaJob"
+  }
+]
